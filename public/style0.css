@@ -1,0 +1,18 @@
+h1{
+   color:#ff0000;
+   font-size:17vw;
+}
+h2{
+    color:#0000ff;
+    font-size:36px;
+    margin: 0px;
+    padding: 20px 0px 40px 160px;
+}
+.img0{
+    width:100vw;
+      max-width:720px
+}
+.img1{
+    width:1200vw;
+        max-width:10080px  
+}

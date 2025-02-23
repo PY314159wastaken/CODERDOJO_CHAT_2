@@ -1,0 +1,15 @@
+#login_container{
+    text-align: center;
+    padding-top: 50vh;
+}
+#chat_container{
+    text-align: center;
+    margin-top: 240px;
+    margin-bottom: 240px;
+    background: rgb(0,0,255);
+    background: linear-gradient(90deg, #0000b0 0%, #8000ff 50%, #b00000 100%);
+    color: #ffffff;
+}
+.hidden {
+    display: none;
+}

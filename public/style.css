@@ -1,0 +1,41 @@
+body {
+    margin:0px;
+}
+h1 {
+    color:#ff0000;
+    text-align:center;
+    background-color:#800000
+}
+h2{
+    color:#0000ff;
+    text-align:center;
+}
+.divp{
+    font-size:120px;
+}
+.img0{
+    width:100vw;
+    max-width:720px
+}
+.navbar{
+    padding: 0px;
+    background-color:#00aaff;
+    display:flex;
+    justify-content: space-between;
+    justify-items:center;
+}
+.navbar a{
+    color: #000080;
+    background:#00aaff;
+    border:none;
+    padding:5px;
+    cursor: wait;
+}
+.navbar a:hover {
+    background:#0000ff;
+    cursor:wait
+}
+.navbar a:active {
+    background:#000080;
+    color:#00aaff;
+}
